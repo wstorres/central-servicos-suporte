@@ -14,6 +14,7 @@ A Central de Serviços de Service Desk é uma plataforma que oferece suporte té
 - `implementacao/`: Cronograma de implementação, plano de implementação e avaliação de riscos.
 - `suporte/`: Recursos de suporte técnico, incluindo guia de suporte e soluções de problemas específicos para o Sistema de Gestão Hospitalar - SGHX.
 - `relatorios/`: Relatórios mensais, anuais e outros relatórios relacionados ao funcionamento da Central de Serviços de Service Desk.
+- `Ferramentas/`: Uso de ferramentas necessárias para funcionamento da Central de Serviços de Service Desk.
 
 ## Como Usar
 
